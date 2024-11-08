@@ -6,7 +6,6 @@ This module demonstrates the critical security checkpoints and potential vulnera
 1. **[USER PASSWORD INPUT]**  
    - Keyloggers can capture keystrokes  
    - Clipboard monitoring possible  
-   - Hardware keyloggers effective  
 
    ↓  
 
