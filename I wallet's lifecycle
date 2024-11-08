@@ -1,4 +1,5 @@
 # Overview  
+
 This module demonstrates the critical security checkpoints and potential vulnerabilities in a cryptocurrency wallet’s lifecycle - from password input to wallet locking. Each stage represents a security boundary that requires careful consideration and robust protection mechanisms.  
 
 # Security Flow Diagram  
