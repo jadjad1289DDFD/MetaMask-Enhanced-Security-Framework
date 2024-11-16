@@ -55,9 +55,9 @@ Final secure storage format:
 ## Recovery Process
 
 
-**Retrieve Base64 encoded string
-  Convert back to entropy
-  Apply BIP39 derivation
+**Retrieve Base64 encoded string->
+  Convert back to entropy->
+  Apply BIP39 derivation->
   Recover original seed phrase**
 
 # Enhanced Security Benefits 
